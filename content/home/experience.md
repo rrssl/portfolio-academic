@@ -26,6 +26,8 @@ date_format = "Jan 2006"
   date_end = "2020-01-31"
   description = """
   Course: Introduction to Machine Learning (COMP0088, taught by Pr. Kokkinos)
+
+  Tools: Python (Jupyter, Matplotlib, Numpy, Pytorch, Scikit-learn)
   """
 
 [[experience]]
@@ -37,6 +39,8 @@ date_format = "Jan 2006"
   date_end = "2019-09-30"
   description = """
   Topic: Generative modeling of chain reaction contraptions
+
+  Tools: Python (Jupyter, Numpy, Panda3D, Pytorch), JavaScript (Three.js)
   """
 
 [[experience]]
@@ -48,6 +52,8 @@ date_format = "Jan 2006"
   date_end = "2015-09-30"
   description = """
   Topic: Template-based reconstruction of indoor scenes from RGB-D data
+
+  Tools: C++ (Eigen, OpenCV, PCL), CloudCompare, MeshLab
   """
 
 [[experience]]
@@ -59,6 +65,8 @@ date_format = "Jan 2006"
   date_end = "2014-09-30"
   description = """
   Topic: Shape reconstruction and body-dimension measurements of cetaceans from 3D sonar scanner data
+
+  Tools: MatLab, C++ (PCL), CloudCompare, MeshLab
   """
 
 [[experience]]
@@ -70,6 +78,8 @@ date_format = "Jan 2006"
   date_end = "2014-02-28"
   description = """
   Topic: Road marking detection and rendering from 3D lidar data acquired with a mobile mapping system
+
+  Tools: C++ (OpenCV, PCL), CloudCompare, MeshLab
   """
 
 +++
