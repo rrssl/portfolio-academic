@@ -11,5 +11,8 @@ doi: "10.1145/3306346.3322977"
 url_project: "http://geometry.cs.ucl.ac.uk/projects/2019/causal-graphs/"
 url_pdf: "http://geometry.cs.ucl.ac.uk/projects/2019/causal-graphs/paper_docs/Roussel_causalGraphs_siggraph19_authorVersion.pdf"
 url_video: "https://youtu.be/aBH-iPAR92c"
+image:
+  preview_only: true
+
 ---
 This publication also appeared in the French newspaper [Le Monde](https://www.lemonde.fr/sciences/article/2019/08/19/l-art-de-fabriquer-des-machines-infernales_5500719_1650684.html). 

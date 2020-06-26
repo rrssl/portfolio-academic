@@ -11,5 +11,8 @@ doi: "10.1145/3083157.3083158"
 url_pdf: "https://geometry.cs.ucl.ac.uk/projects/2017/constrained-exploration/paper_docs/RousselEtAl_constrainedExploration_SCF17.pdf"
 url_project: "https://geometry.cs.ucl.ac.uk/projects/2017/constrained-exploration/"
 url_video: "https://youtu.be/amU5tdyBuKI"
+image:
+  preview_only: true
+
 ---
 

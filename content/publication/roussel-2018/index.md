@@ -11,5 +11,8 @@ doi: "10.1016/j.cag.2018.05.023"
 url_pdf: "http://geometry.cs.ucl.ac.uk/projects/2018/drawing-machines/paper_docs/RousselEtAl_designingDrawingMachines_CG18.pdf"
 url_project: "http://geometry.cs.ucl.ac.uk/projects/2018/drawing-machines/"
 url_video: "https://youtu.be/amU5tdyBuKI"
+image:
+  preview_only: true
+
 ---
 This publication is an extented version of [Spirou: constrained exploration for mechanical motion design]({{< ref "publication/roussel-2017/index.md" >}}).
