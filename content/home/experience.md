@@ -18,27 +18,58 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postgraduate Teaching Assistant"
+  company = "University College London"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "London, UK"
+  date_start = "2017-10-01"
+  date_end = "2020-01-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Course: Introduction to Machine Learning (COMP0088, taught by Pr. Kokkinos)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "Adobe Research"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "San Francisco, USA"
+  date_start = "2019-06-01"
+  date_end = "2019-09-30"
+  description = """
+  Topic: Generative modeling of chain reaction contraptions
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Dassault Systèmes Corporate Research"
+  company_url = ""
+  location = "Vélizy, France"
+  date_start = "2015-04-01"
+  date_end = "2015-09-30"
+  description = """
+  Topic: Template-based reconstruction of indoor scenes from RGB-D data
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "University of St Andrews"
+  company_url = ""
+  location = "St Andrews, UK"
+  date_start = "2014-06-01"
+  date_end = "2014-09-30"
+  description = """
+  Topic: Shape reconstruction and body-dimension measurements of cetaceans from 3D sonar scanner data
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "CAOR Mines ParisTech"
+  company_url = ""
+  location = "Paris, France"
+  date_start = "2013-09-01"
+  date_end = "2014-02-28"
+  description = """
+  Topic: Road marking detection and rendering from 3D lidar data acquired with a mobile mapping system
+  """
 
 +++
