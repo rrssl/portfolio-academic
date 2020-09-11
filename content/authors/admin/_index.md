@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student in Computer Science
+role: PhD in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently finishing my PhD at University College London, under the supervision of [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Marie-Paule Cani](https://www.lix.polytechnique.fr/geovic/members/marie-paule_cani/) and [Jean-Claude Léon](https://www.researchgate.net/profile/Jean-Claude_Leon). I spent the first year of my PhD at Inria in the [IMAGINE team](https://team.inria.fr/imagine/), and 3 months at Adobe as a research intern (mentored by [Amanda Ghassaei](http://www.amandaghassaei.com/) and [Matt Fisher](https://techmatt.github.io/)). My research interests focus on computational design and fabrication methods applied to problems at the intersection of art and engineering.
+I have recently finished my PhD in Computer Science at University College London. My advisors were Profs [Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Marie-Paule Cani](https://www.lix.polytechnique.fr/geovic/members/marie-paule_cani/) and [Jean-Claude Léon](https://www.researchgate.net/profile/Jean-Claude_Leon). I spent the first year of my PhD at Inria in the [IMAGINE team](https://team.inria.fr/imagine/), and 3 months at Adobe as a research intern (mentored by [Amanda Ghassaei](http://www.amandaghassaei.com/) and [Matt Fisher](https://techmatt.github.io/)). I was also a postgraduate teaching assistant for 3 years, for the course "Introduction to Machine Learning" (taught by Prof [Iasonas Kokkinos](http://www0.cs.ucl.ac.uk/staff/I.Kokkinos/)). My research primarily focused on computational design methods applied to problems at the intersection of art and engineering. I have published in venues such as Transactions on Graphics (SIGGRAPH) and Computer & Graphics.

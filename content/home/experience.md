@@ -25,9 +25,11 @@ date_format = "Jan 2006"
   date_start = "2017-10-01"
   date_end = "2020-01-31"
   description = """
-  Course: Introduction to Machine Learning (COMP0088, taught by Pr. Kokkinos)
+  Course: Introduction to Machine Learning (COMP0088)
 
-  Tools: Python (Jupyter, Matplotlib, Numpy, Pytorch, Scikit-learn)
+  Topics: regression & classification, SVM, boosting, neural networks (shallow/deep), PCA, K-means, mixtures of Gaussians
+
+  Tools: Python 3 (Jupyter, Matplotlib, Num/Scipy, Pytorch, Scikit-learn)
   """
 
 [[experience]]
@@ -40,7 +42,7 @@ date_format = "Jan 2006"
   description = """
   Topic: Generative modeling of chain reaction contraptions
 
-  Tools: Python (Jupyter, Numpy, Panda3D, Pytorch), JavaScript (Three.js)
+  Experimented with deep learning methods to generate shape assemblies, using Python 3 (Jupyter, Numpy, Pytorch) and JavaScript (Three.js).
   """
 
 [[experience]]
@@ -51,9 +53,9 @@ date_format = "Jan 2006"
   date_start = "2015-04-01"
   date_end = "2015-09-30"
   description = """
-  Topic: Template-based reconstruction of indoor scenes from RGB-D data
+  Topic: Data-driven structure-aware shape synthesis for the semantic reconstruction of indoor scenes from RGB-D data
 
-  Tools: C++ (Eigen, OpenCV, PCL), CloudCompare, MeshLab
+  Wrote an algorithm to generate new 3D models from an existing dataset, in C++ (Eigen, OpenCV, PCL).
   """
 
 [[experience]]
@@ -66,7 +68,7 @@ date_format = "Jan 2006"
   description = """
   Topic: Shape reconstruction and body-dimension measurements of cetaceans from 3D sonar scanner data
 
-  Tools: MatLab, C++ (PCL), CloudCompare, MeshLab
+  Created a point cloud processing pipeline (registration, filtering, segmentation, mesh reconstruction), in MatLab & C++ (PCL).
   """
 
 [[experience]]
@@ -79,7 +81,7 @@ date_format = "Jan 2006"
   description = """
   Topic: Road marking detection and rendering from 3D lidar data acquired with a mobile mapping system
 
-  Tools: C++ (OpenCV, PCL), CloudCompare, MeshLab
+  Implemented an image processing pipeline, in C++ (OpenCV).
   """
 
 +++
